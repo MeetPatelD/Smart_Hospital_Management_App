@@ -184,8 +184,7 @@ The app includes sample in-memory users for demo/testing purposes:
 |---|---|
 | Admin | `admin@gmail.com` / `1234` |
 | Doctor | `raj@gmail.com` / `1234` |
-| Doctor | `priya.doctor@gmail.com` / `1234` |
-| Doctor | `rahul.doctor@gmail.com` / `1234` |
+| Doctor | `priya_doctor@gmail.com` / `1234` |
 | User | `user@gmail.com` / `1234` |
 
 These values are part of the sample dataset used in `DataService`. [file:8]
